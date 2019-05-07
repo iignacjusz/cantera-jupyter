@@ -1,0 +1,3 @@
+# Zmiana folderu
+import os
+os.chdir('/home/jovyan/demo/')
