@@ -15,8 +15,11 @@ or give Cantera a test drive in the cloud. Click on the Binder link below to
 launch an interactive environment where you can run these examples. For this,
 there is no installation required.
 
+**Cantera**
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/cantera/cantera-jupyter)
 
+**Cantera with Shock & Detonation Toolbox**
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/saltazaur/cantera-jupyter)
 ## Examples
 
 <table align="center">
