@@ -6,3 +6,5 @@ dependencies:
   - cantera
   - matplotlib
   - pandas
+  - scipy
+  - numpy
