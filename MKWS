@@ -1,3 +1,4 @@
 # Zmiana folderu
 import os
 os.chdir('/home/jovyan/demo/')
+run demo_shock_point.py
